@@ -1,0 +1,7 @@
+Filled container. 
+Only planes
+0: It is Plane: грузоподъемность = 1000, дальность полета = 8000, расстояние между пунктами = 7000, скорость = 3700
+1: 
+2: 
+Empty container. 
+ Container contains 0 elements.
